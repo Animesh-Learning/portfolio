@@ -9,8 +9,8 @@
     <h1>Portfolio Of Animesh Banerjee</h1>
     <img src="./assets/images/Animesh Banerjee.PNG"/>
 <p>
-     <a href="../4.3 HTML Porfolio Project/public/about.html">About Me</a><br/>
-    <a href="../4.3 HTML Porfolio Project/public/contact.html">Contact</a>
+     <a href="./public/about.html">About Me</a><br/>
+    <a href="./public/contact.html">Contact</a>
 </p>
    
 
